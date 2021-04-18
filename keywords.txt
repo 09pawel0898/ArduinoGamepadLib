@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Button	KEYWORD1
+Joystick 	KEYWORD1
+joypos	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+isClicked	KEYWORD2
+trySendPressedMsg	KEYWORD2
+trySendReleasedMsg	KEYWORD2
+trySendJoystickMsg	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
