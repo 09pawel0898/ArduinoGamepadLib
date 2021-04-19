@@ -3,7 +3,7 @@
 Simple library which i wrote for handilng basic user-interactive components like buttons, switches, joysticks
 that can be connected to arduino. Data produced during interacion is being sent via serial port to the computer.
 I use it to work with my arduino-gamepad-emulator program, which recognizes the incoming data and performs acions 
-previously assigned to the components.
+previously assigned to the components. [Gamepad-Emulator](https://github.com/09pawel0898/arudino-gamepad-emulator "Gamepad-Emulator")
 
 Every message has 4 bytes. Each byte represents one character.
 
